@@ -3,7 +3,7 @@
 An MCP (Model Context Protocol) server specialized for **BPMN Diagrams**. Enables AI assistants like Claude to programmatically create and manage BPMN diagrams — participants, lanes, tasks, sub-processes, events, gateways, data objects, conversations, choreographies, and all flow types in [StarUML](https://staruml.io/).
 
 <p align="center">
-  <img src="images/main.jpg" alt="BPMN Diagram Example — EC Order Processing with pools, lanes, tasks, gateways, events, data objects, and message flows" width="900">
+  <img src="images/main2.jpg" alt="BPMN Diagram Example — EC Order Processing with pools, lanes, tasks, gateways, events, data objects, and message flows" width="900">
 </p>
 
 > **Example:** An EC Order Processing diagram created entirely via MCP tools — featuring 3 pools, 3 lanes, 9 task types, 5 event types, 5 gateway types, sub-processes, data objects, choreographies, conversations, and cross-pool message flows.
